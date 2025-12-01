@@ -1,4 +1,4 @@
-# Staistical Procedures Tutorials 
+# Statistical Procedures Tutorials 
 ## ANOVA family, t-test tutorials for self-study
 ## Multiplots Tutorial with 'ggplot2' and R basic
 
