@@ -1,6 +1,6 @@
 # Staistical Procedures Tutorials 
 ## ANOVA family, t-test tutorials for self-study
-## MultipLots Tutorial
+## Multiplots Tutorial with 'ggplot2' and R basic
 
 These R scripts run ten diffrent automated statistical procedures (since you provide the input parameters). 
 Please read the comment lines in-between each following procedure code block
