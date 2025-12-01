@@ -1,6 +1,8 @@
-# Stats_Procedures
+# Staistical Procedures Tutorials 
+## ANOVA family, t-test tutorials for self-study
+## MultipLots Tutorial
 
-These scripts run ten diffrent automated statistical procedures (since you provide the input parameters). 
+These R scripts run ten diffrent automated statistical procedures (since you provide the input parameters). 
 Please read the comment lines in-between each following procedure code block
 
 PROCEDURES:
