@@ -1,9 +1,9 @@
-# Statistical Procedures Tutorials 
-## ANOVA family, t-test tutorials for self-study
-## Multiplots Tutorial with 'ggplot2' and R basic
+# Statistical Tutorials for Linguists
+## - ANOVA family, t-test, and Linear Regression tutorials for self-study
+## - Multiplots Tutorial with 'ggplot2' and R basic
+### (tutorials from the scratch)!
 
 These R scripts run ten diffrent automated statistical procedures (since you provide the input parameters). 
-Please read the comment lines in-between each following procedure code block
 
 PROCEDURES:
 1. Checks if R is updated;
